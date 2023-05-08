@@ -482,7 +482,7 @@ html{
 #btnlogin{
     padding-top: 10px;
 }
-#btnlogin a{
+#btnlogin {
     padding: 10px;
     text-decoration: none;
     border-radius: 15px;
@@ -632,6 +632,15 @@ html{
 }
 .imagen_fondo_2:hover {filter: opacity(.5);}
 /*---------------------------------------------------------------------------*/
+
+.alert {
+    height: 30px;
+    width: 300px;
+    font-size: 10px;
+    margin-left: 80px;
+  }
+
+
 
 
 
